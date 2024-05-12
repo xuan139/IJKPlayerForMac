@@ -10,9 +10,6 @@
 #import "EventSendManager.h"
 @interface AppDelegate ()
 @property (nonatomic,weak)EventSendManager *menuManager;
-
-
-
 @end
 
 @implementation AppDelegate
